@@ -114,6 +114,12 @@ Capilano Suspension Bridge is located at (49.3429, -123.1149)
 
 ---
 
+## Check Your Work
+
+Take a look at [solutions/solutions.py] to check your work!
+
 ## Done and Done!
 
-![](https://media.giphy.com/media/PqwqtOLfG19Ti/giphy.gif)
+![](https://gph.is/2hSpbC3)
+
+Unless... you'd like to tackle [part 2](part2.md) as a bonus?
