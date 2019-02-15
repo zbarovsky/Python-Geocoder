@@ -11,7 +11,7 @@ Questions? Comments?
 
 # Python Modules, Packages, and APIs: Practice Problems, Part 1
 
-In this homework, you're going to write code for a challenge problem.
+In this assignment, you're going to write code for a challenge problem.
 
 You will practice these programming concepts we've covered in class:
 
@@ -23,7 +23,7 @@ You will practice these programming concepts we've covered in class:
 
 ## Deliverables
 
-This homework will be a two-part code challenge with a bonus. It will be a little different than the other homework because Part 2 will build on the code from Part 1. You can put all of your code in one file called `solution.py`. Right now, just make that one file.
+This assignment will be a two-part code challenge with a bonus. It will be a little different than the other assignments because Part 2 will build on the code from Part 1. You can put all of your code in one file called `solution.py`. Right now, just make that one file.
 
 *Reminder: On your laptop, you can run the file from your command line with the following:*
 
@@ -33,6 +33,9 @@ python solution.py
 
 > **Hint:** Make sure you are printing something out with the `print` statement. Otherwise, you won't see any output from running your program!
 
+#### Turn-In
+
+Your instructor will inform you whether this is to be turned-in or in-class practice.
 
 ## Requirements:
 
