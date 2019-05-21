@@ -17,13 +17,13 @@ You will practice these programming concepts we've covered in class:
 
 * Including and using modules and packages
 
-**Note:** This homework is Part 1 of a two-part assignment. Save your solution code â€” the next homework will build off of it!
+**Note:** This lab is Part 1 of a two-part assignment. Save your solution code â€” the next homework will build off of it!
 
 ---
 
 ## Deliverables
 
-This assignment will be a two-part code challenge with a bonus. It will be a little different than the other assignments because Part 2 will build on the code from Part 1. You can put all of your code in one file called `solution.py`. Right now, just make that one file.
+This lab will be a two-part code challenge with a bonus. It will be a little different than the other assignments because Part 2 will build on the code from Part 1. You can put all of your code in one file called `solution.py`. Right now, just make that one file.
 
 *Reminder: On your laptop, you can run the file from your command line with the following:*
 
@@ -33,9 +33,6 @@ python solution.py
 
 > **Hint:** Make sure you are printing something out with the `print` statement. Otherwise, you won't see any output from running your program!
 
-#### Turn-In
-
-Your instructor will inform you whether this is to be turned-in or in-class practice.
 
 ## Requirements:
 
