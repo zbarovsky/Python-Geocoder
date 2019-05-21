@@ -11,7 +11,7 @@ Questions? Comments?
 
 # Python Modules, Packages, and APIs: Practice Problems, Part 2
 
-In this homework, you're going to write code for the second of the two challenge problems. This code will continue off your code from the previous homework.
+In this lab, you're going to write code for the second of the two challenge problems. This code will continue off your code from the previous homework.
 
 You will practice these programming concepts we've covered in class:
 
@@ -23,7 +23,7 @@ You will practice these programming concepts we've covered in class:
 
 ## Deliverables
 
-This homework is the second of a two-part code challenge, plus a bonus challenge. It is a little different than the other homeworks because this assignment will build on the code from Part 1, the previous homework. For your solution here, you can directly edit the `solution.py` file from the previous assignment.
+This lab is the second of a two-part code challenge, plus a bonus challenge. It is a little different than the other homeworks because this assignment will build on the code from Part 1, the previous homework. For your solution here, you can directly edit the `solution.py` file from the previous assignment.
 
 *Reminder: On your laptop, you can run the file from your command line with the following:*
 
