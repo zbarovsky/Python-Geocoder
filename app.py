@@ -15,3 +15,7 @@ destinations = [
     "Capilano Suspension Bridge"
 ]
 
+for point in destinations:
+    location = geocoder.arcgis(point)
+
+    print (f'{point} is located at {location.latlng}')
