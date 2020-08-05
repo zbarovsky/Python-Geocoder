@@ -1,6 +1,9 @@
 import requests
 import geocoder
 
+# g = geocoder.arcgis('Redlands, CA')
+# print(g.latlng)
+
 destinations = ["The Space Needle",
   "Crater Lake",
   "The Golden Gate Bridge",
@@ -17,7 +20,10 @@ destinations = ["The Space Needle",
 for point in destinations:
   # Get the latitude and longitude from `geocoder`.
   loc = geocoder.arcgis(point)
+  
+
 
   # Print out `geopy`'s results.
   print("{0} is located at ({1:.4f}, {2: .4f})".format(point, loc.latlng[0], loc.latlng[1]))
+  
 
